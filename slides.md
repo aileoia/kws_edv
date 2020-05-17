@@ -64,9 +64,15 @@
 
 # Quelloffenheit und Handwerk
 
+## Qualität ist open source
+
+## Werte
+
 # Vorschläge
 
-## Verwaltung -- ERP
+## Infrastruktur
+
+### Verwaltung -- ERP
 
 - [Gibbon](gibbonedu.org)
 - [Openeducat](www.openeducat.org)
