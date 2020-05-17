@@ -47,18 +47,20 @@
 
 ## Technischer Hintergrund
 
-Software:
+### Software
+
 - Server
 - Client
 
-Hardware:
+### Hardware
+
 - Server
 - Netzwerk Verbindung
 
 ## Provokativer Vergleich
 
-McDonalds, Coca Cola und H\&M bieten kostenlos Material zum lesen lernen:
-Stifte, Hefte, Bücher, Aufgabenhefte.
+> McDonalds, Coca Cola und H\&M bieten kostenlos Material zum lesen lernen:
+> Stifte, Hefte, Bücher, Aufgabenhefte.
 
 # Quelloffenheit und Handwerk
 
