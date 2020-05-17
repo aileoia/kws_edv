@@ -78,3 +78,31 @@
 - [Openeducat](www.openeducat.org)
 - [Opensis](opensis.com)
 - [Open-school](open-school.org)
+
+### Für die Lehrer
+
+- Nextcloud (Dateiablage)
+- Moodle (Digitale lernhilfe)
+
+### Zur kommunikation
+
+- Rocket Chat (Diskussionsforum)
+- xmpp (offene Kommunikation)
+
+### Für die Kinder
+
+- Skolelinux (Verwaltung von Computer Pools für schulen)
+
+## Pädagogische Vorschläge
+
+- Geogebra
+- Scratch
+- Tip toi selber machen
+- Raspberry pi
+
+## (Ansprech-)Partner
+
+- FAS
+- Teckids e.V.
+- Hostsharing
+- Hetzner
