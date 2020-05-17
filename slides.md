@@ -38,6 +38,28 @@
 
 # Kostenfrage
 
+## Nichts ist kostenlos
+
+* Softwareentwicklung
+* Hardware
+* Systemverwaltung
+* etc
+
+## Technischer Hintergrund
+
+Software:
+- Server
+- Client
+
+Hardware:
+- Server
+- Netzwerk Verbindung
+
+## Provokativer Vergleich
+
+McDonalds, Coca Cola und H\&M bieten kostenlos Material zum lesen lernen:
+Stifte, Hefte, Bücher, Aufgabenhefte.
+
 # Quelloffenheit und Handwerk
 
 # Vorschläge
