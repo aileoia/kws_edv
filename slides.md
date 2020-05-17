@@ -63,3 +63,10 @@ Stifte, Hefte, Bücher, Aufgabenhefte.
 # Quelloffenheit und Handwerk
 
 # Vorschläge
+
+## Verwaltung -- ERP
+
+- [Gibbon](gibbonedu.org)
+- [Openeducat](www.openeducat.org)
+- [Opensis](opensis.com)
+- [Open-school](open-school.org)
